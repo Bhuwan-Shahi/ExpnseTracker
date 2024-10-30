@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Groceries",
+        "budget": 100,
+        "spent": 80,
+        "profit": 20,
+        "isProfit": true
+    },
+    {
+        "title": "Groceries",
+        "budget": 100,
+        "spent": 180,
+        "profit": -80,
+        "isProfit": false
+    },
+    {
+        "title": "Phone",
+        "budget": 1000,
+        "spent": 7000,
+        "profit": -6000,
+        "isProfit": false
+    }
+]
